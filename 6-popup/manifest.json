@@ -1,0 +1,8 @@
+{
+    "name": "Drink Water Event",
+    "manifest_version": 3,
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome Extention - Action",
+    "description": "Enable focus mode on Chrome's official Extensions and Chrome Web Store documentation.",
+    "version": "1.0",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Press Ctrl(Win)/Command(Mac)+Shift+Right/Left to flip tabs"
+    }
+}
